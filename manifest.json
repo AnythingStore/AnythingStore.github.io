@@ -1,6 +1,6 @@
 {
-    "name": "anything_store_elvispp",
-    "short_name": "anything_store_elvispp",
+    "name": "app_estomatologia_elvisapps",
+    "short_name": "app_estomatologia_elvisapps",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
